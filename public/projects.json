@@ -1,0 +1,114 @@
+ [
+  {
+    "id": 1,
+    "title": "Shastho Sheba - Healthcare Platform",
+    "description": "A comprehensive healthcare platform connecting patients with doctors and medical services",
+    "imageUrl": "/assets/projectPhoto/project-1.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/shato-sheba-frontend",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/Shastho-Sheba-server",
+    "liveLink": "https://shato-sheba-frontend.vercel.app",
+    "technologies": ["Next.js","TypeScript" ,"zod","Express js","Node.js","Prisma","PostgreSQL"]
+  },
+  {
+    "id": 2,
+    "title": "Evenetora -Event Booking management system ",
+    "description": "A modern and intuitive platform that lets users seamlessly browse, book, and manage events. Built with a sleek interface, it streamlines scheduling, ticketing, and notifications for a smooth and engaging user experience.",
+    "imageUrl": "/assets/projectPhoto/project-13.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/Eventora-frontend",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/Eventora-server",
+    "liveLink": "https://eventora-zeta.vercel.app",
+    "technologies":["Next.js","TypeScript" ,"zod","Express js","Node.js","Prisma","PostgreSQL"]
+  },
+  {
+    "id": 3,
+    "title": "Ride Booking Management ",
+    "description": "Smart ride booking management system designed for efficient scheduling, real-time monitoring, and smooth user interaction",
+    "imageUrl": "/assets/projectPhoto/project-2.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/ride-booking-system-frontend-new",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/ride-booking-system-backend-new",
+    "liveLink": "https://ride-booking-system-frontend-new.vercel.app",
+    "technologies":["React.js","TypeScript","Redux" ,"Shadecn","Express js","Node.js","MongoDB"]
+  },
+  {
+    "id": 4,
+    "title": "SoloSphere — Digital Freelancing Hub",
+    "description": "Independent freelancing platform delivering scalable digital solutions for businesses and startups.",
+    "imageUrl": "/assets/projectPhoto/project-3.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/soloSphere-client",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/soloSphere-server",
+    "liveLink": "https://solophere-4f170.web.app",
+    "technologies": ["React", "Firebase", "React Router Dom","Material-UI", "Express js","Node.js","MongoDB","axios"]
+  },
+  {
+    "id": 5,
+    "title": "Beauty Parlour -Glow your beauty with us",
+    "description": "Modern beauty parlour website offering professional beauty services with a smooth and user-friendly experience.",
+    "imageUrl": "/assets/projectPhoto/project-4.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/beauty-parlour-client",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/beauty-parlour-server",
+    "liveLink": "https://beauty-parlour-9efe1.web.app",
+    "technologies": ["React","React Router Dom","Firebase", "Express js","Node.js","MongoDB"]
+  },
+  {
+    "id": 6,
+    "title": "Bookig Doctor Appointment",
+    "description": "Online doctor appointment booking system enabling patients to book consultations easily while helping clinics manage appointments efficiently.",
+    "imageUrl": "/assets/projectPhoto/project-5.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/doctors-portal-client",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/doctors-portal-server",
+    "liveLink": "https://doctors-portal-a0feb.web.app",
+    "technologies": ["React","React Router Dom","Firebase", "Express js","Node.js","MongoDB"]
+  },
+  {
+    "id": 7,
+    "title": "Car Mechanic service",
+    "description": "Digital car mechanic system enabling customers to book services while helping workshops manage repairs and service history effectively.",
+    "imageUrl": "/assets/projectPhoto/project-6.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/car-garage-mechanic",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/car-garage-mechanic-server",
+    "liveLink": "https://car-garage-mechanic.web.app",
+    "technologies": ["React","React Router Dom","Firebase", "dotenv","Express js","Node.js","MongoDB"]
+  },
+  {
+    "id": 8,
+    "title": "Ema-Jhon E-Commerce Platform",
+    "description": "Scalable e-commerce platform with product management, secure checkout, and smooth user interaction.",
+    "imageUrl": "/assets/projectPhoto/project-7.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/ema-john-client-update",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/ema-jhon-server",
+    "liveLink": "https://ema-john-simple-88ef7.web.app",
+    "technologies": ["React","React Router Dom","Firebase", "dotenv","Express js","Node.js","MongoDB"]
+  },
+  {
+    "id": 9,
+    "title": "Restaurant system ",
+    "description": "Modern restaurant platform showcasing menus, and show the ingredients",
+    "imageUrl": "/assets/projectPhoto/project-8.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/restaurant-react",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/restaurant-react",
+    "liveLink": "https://fervent-hawking-10e3ab.netlify.app",
+    "technologies": ["React","React Router Dom","Netlify"]
+  },
+  {
+    "id": 10,
+    "title": "Check temperature",
+    "description": "Check weather tenperature and condition",
+    "imageUrl": "/assets/projectPhoto/project-10.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/city-tempature",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/city-tempature",
+    "liveLink": "https://rizwanhossainrahat.github.io/city-tempature",
+    "technologies":["HTML","CSS","Javascript"]
+
+  },
+  {
+    "id": 11,
+    "title": "Bank ",
+    "description": "Deposite amount and withdraw amount ",
+    "imageUrl": "/assets/projectPhoto/project-12.png",
+    "frontendGithubLink": "https://github.com/rizwanhossainrahat/sumu-bank",
+    "backendGithubLink": "https://github.com/rizwanhossainrahat/sumu-bank",
+    "liveLink": "https://rizwanhossainrahat.github.io/sumu-bank",
+    "technologies":["HTML","CSS","Javascript"]
+
+  }
+]
